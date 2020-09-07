@@ -12,5 +12,5 @@
 ### <center>Screenshot</center>
 
 <p>
-  <img width="100%" src="https://raw.githubusercontent.com/yurywektorovich/startpage/master/public/manifest/sp.png" />
+  <img width="100%" src="https://raw.githubusercontent.com/yurywektorovich/startpage/master/frontend/public/sp.png" />
 </p>
